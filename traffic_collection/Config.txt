@@ -1,0 +1,17 @@
+# plug Configurations
+# phase start_time end_time duration
+setup 0 0 0
+idle_on_local 0 0 900
+idle_off_local 0 0 900
+idle_off_remote 0 0 900
+idle_on_remote 0 0 900
+off_remote 0 0 0
+on_remote 0 0 0
+off_local 0 0 0
+on_local 0 0 0
+off_voice 0 0 0
+on_voice 0 0 0
+off_physical 0 0 0
+on_physical 0 0 0
+update 0 0 0
+delete 0 0 0
