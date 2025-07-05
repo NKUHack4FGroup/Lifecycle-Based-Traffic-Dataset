@@ -2,7 +2,7 @@
 
 本仓库包含我们向《Science China Information Sciences》期刊投递的论文 **《Security and Privacy Measurement on Chinese Consumer IoT Traffic based on Device Lifecycle》** 中所使用的流量收集方法及实验分析代码。
 
-文章的arxiv链接：[ Security and Privacy Measurement on Chinese Consumer IoT Traffic based on Device Lifecycle](https://arxiv.org/abs/2505.09929)
+文章的arxiv链接：[Security and Privacy Measurement on Chinese Consumer IoT Traffic based on Device Lifecycle](https://arxiv.org/abs/2505.09929)
 
 ## 文件结构
 
