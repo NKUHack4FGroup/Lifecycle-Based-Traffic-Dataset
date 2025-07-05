@@ -2,7 +2,7 @@
 
 This repository contains the traffic collection methods and experimental analysis code used in our paper "Security and Privacy Measurement on Chinese Consumer IoT Traffic based on Device Lifecycle" submitted to the journal Science China Information Sciences.
 
-The article's arxiv link: [[2505.09929\] Security and Privacy Measurement on Chinese Consumer IoT Traffic based on Device Lifecycle](https://arxiv.org/abs/2505.09929)
+The article's arxiv link: [Security and Privacy Measurement on Chinese Consumer IoT Traffic based on Device Lifecycle](https://arxiv.org/abs/2505.09929)
 
 ## Directory Structure
 
