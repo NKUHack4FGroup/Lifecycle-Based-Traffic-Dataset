@@ -2,8 +2,6 @@
 
 This repository contains the traffic collection methods and experimental analysis code used in our paper "Security and Privacy Measurement on Chinese Consumer IoT Traffic based on Device Lifecycle" submitted to the journal Science China Information Sciences.
 
-The article's arxiv link: [[2505.09929]Security and Privacy Measurement on Chinese Consumer IoT Traffic based on Device Lifecycle](https://arxiv.org/abs/2505.09929)
-
 ## Directory Structure
 
 Each subfolder includes the complete code and configuration files for the corresponding analysis section:
@@ -18,7 +16,7 @@ Each subfolder includes the complete code and configuration files for the corres
 
 From March 1, 2024, to June 16, 2025, we collected approximately 108 hours of network traffic data from 77 consumer-grade IoT devices.
 
-For access to the full dataset and analysis results, please send an email to nkuhack4fgroup@gmail.com or jiay@nankai.edu.cn, indicating your organization and purpose of use. We will reply within a week.
+For access to the full dataset and analysis results, please send an email to nkuhack4fgroup@gmail.com or jiay@nankai.edu.cn, indicating your organization and purpose of use. 
 
 ## Device List
 |       device        |
