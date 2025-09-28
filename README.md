@@ -1,6 +1,7 @@
 # Lifecycle-Based Traffic Collection for Consumer IoT Devices
 
 This repository contains the traffic collection methods and experimental analysis code used in our paper "Security and Privacy Measurement on Chinese Consumer IoT Traffic based on Device Lifecycle" submitted to the journal Science China Information Sciences.
+The "Just Accepted" Web site: https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4609-x
 
 ## Directory Structure
 
