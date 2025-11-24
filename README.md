@@ -17,7 +17,7 @@ Each subfolder includes the complete code and configuration files for the corres
 
 From March 1, 2024, to June 16, 2025, we collected approximately 108 hours of network traffic data from 77 consumer-grade IoT devices.
 
-For access to the full dataset and analysis results, please send an email to nkuhack4fgroup@gmail.com or jiay@nankai.edu.cn, indicating your organization and purpose of use. 
+For access to the full dataset and analysis results, please send an email to nkuhack4fgroup@gmail.com or jiay@nankai edu cn, indicating your organization and purpose of use. 
 
 ## Device List
 |       device        |
