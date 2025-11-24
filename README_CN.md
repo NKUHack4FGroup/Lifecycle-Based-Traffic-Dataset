@@ -18,7 +18,7 @@
 
 我们在 2024 年 3 月 1 日至 2025 年 6 月 16 日期间，针对 77 款消费级物联网设备，共收集了约 108 小时的网络流量数据。
 
-如需访问完整数据集及分析结果，请发送邮件至 **nkuhack4fgroup@gmail.com**或**jiay@nankai.edu.cn**，并注明您的组织及使用目的。我们将在一周内给予回复。
+如需访问完整数据集及分析结果，请发送邮件至 **nkuhack4fgroup@gmail.com**或**jiay@nankai edu cn**，并注明您的组织及使用目的。我们将在一周内给予回复。
 
 ## 设备列表
 
@@ -101,5 +101,6 @@
 | xiaobaismart_camera |
 |   xiaodu_speaker    |
 |  xiaomitv_speaker   |
+
 
 
